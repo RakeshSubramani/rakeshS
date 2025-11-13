@@ -1,23 +1,15 @@
-# 👋 Hi, I'm Rakesh S!
+# 👋 Hey there! I'm Rakesh S
 
-🚀 Passionate Developer | 💻 Go & Docker Enthusiast | 🐧 Linux Explorer  
+💻 Backend Developer | Go & Docker Enthusiast | Linux Lover  
 
-I'm a backend-focused developer who loves building high-performance systems and learning deeply about Go, Docker, and Linux.
-
----
-
-### 🛠️ Tech Stack
-- **Languages:** Go, SQL  
-- **Tools:** Docker, Git, Linux, VS Code  
-- **Databases:** MySQL, SQLite  
-- **Other Interests:** System Design, Networking, DevOps
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF00&lines=Hi+there!+Welcome+to+my+GitHub;I+love+building+cool+stuff+with+Go+and+Docker)
 
 ---
 
-### 🌱 What I'm Learning
-- Advanced Go Concurrency  
-- Linux System Internals  
-- Building Scalable SaaS Apps  
+### 🛠 Tech Stack
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -25,7 +17,10 @@ I'm a backend-focused developer who loves building high-performance systems and 
 ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakeshS&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshS&layout=compact&theme=tokyonight)
 
-
 ---
 
-⭐ **Fun fact:** I love understanding how systems work under the hood!
+### 🎨 Fun Projects
+- [Project 1](#) - Animated Docker Microservice  
+- [Project 2](#) - Linux Automation Scripts  
+- [Project 3](#) - Go Networking Tools  
+
