@@ -20,7 +20,5 @@
 ---
 
 ### 🎨 Fun Projects
-- [Project 1](#) - Animated Docker Microservice  
-- [Project 2](#) - Linux Automation Scripts  
 - [Project 3](#) - Go Networking Tools  
 
