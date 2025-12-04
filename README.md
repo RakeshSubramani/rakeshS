@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Rakesh S
 
-💻 Backend Developer | Go & Docker Enthusiast | Linux Lover  
+💻 Backend Developer | Go & Docker Enthusiast | Linux Beginner  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF00&lines=Hi+there!+Welcome+to+my+GitHub;I+love+building+cool+stuff+with+Go+and+Docker)
 
@@ -14,5 +14,7 @@
 ---
 
 ### 🎨 Fun Projects
-- [Project 3](#) - Go Networking Tools  
+- [Project 1](https://github.com/RakeshSubramani/process-monitoring) - Process Monitoring
+- [Project 1](https://github.com/RakeshSubramani/govalid) - govalid
+- [Project 1](https://github.com/RakeshSubramani/sales-management) - sales-management 
 
