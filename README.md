@@ -1,20 +1,19 @@
 <!-- Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=230&section=header&text=Rakesh%20S&fontSize=45&fontAlignY=35&desc=Backend%20Developer%20|%20Go%20%26%20Docker%20Enthusiast&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=230&section=header&text=Rakesh%20S&fontSize=48)
 
 # 👋 Hey there! I'm Rakesh S
 
 💻 **Backend Developer**  
-⚡ Passionate about **Go, Docker, Linux, and System Design**  
-🌱 Currently leveling up in **Networking, Observability & DevOps**
+⚡ Passionate about **Go, and Docker**  
+🌱 Currently leveling up in **Linux, Observability **
 
 ---
 
 ## 📝 About Me
 - 🚀 I build high-performance backend systems using **Go**
 - 🐳 I containerize everything with **Docker**
-- 🐧 Exploring Linux deeply (networking, processes, signals)
+- 🐧 Learning Linux  (networking, processes, signals)
 - 🔍 Learning Monitoring & Observability
-- ❤️ Love building tools, libraries, and performance-focused systems
 
 ---
 
@@ -22,7 +21,6 @@
 
 ### 🧠 **Languages & Backend**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🐳 **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -71,7 +69,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-s-9927861b9)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/RakeshSubramani)
 
 ---
