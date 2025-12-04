@@ -4,7 +4,7 @@
 # 👋 Hey there! I'm Rakesh S
 
 💻 **Backend Developer**  
-⚡ Passionate about **Go, Docker, and System Design**  
+⚡ Passionate about **Go and Docker**  
 🌱 Currently learning **Linux & Observability**
 
 ---
