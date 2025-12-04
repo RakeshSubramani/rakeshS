@@ -15,6 +15,6 @@
 
 ### 🎨 Fun Projects
 - [Project 1](https://github.com/RakeshSubramani/process-monitoring) - Process Monitoring
-- [Project 1](https://github.com/RakeshSubramani/govalid) - govalid
-- [Project 1](https://github.com/RakeshSubramani/sales-management) - sales-management 
+- [Project 2](https://github.com/RakeshSubramani/govalid) - govalid
+- [Project 3](https://github.com/RakeshSubramani/sales-management) - sales-management 
 
