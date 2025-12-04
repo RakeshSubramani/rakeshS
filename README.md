@@ -32,11 +32,11 @@
 
 ## 📌 Featured Projects
 
-[![process-monitoring](https://github-readme-stats.vercel.app/api/pin/?username=RakeshSubramani&repo=process-monitoring&theme=tokyonight)](https://github.com/RakeshSubramani/process-monitoring)
+[![process-monitoring]](https://github.com/RakeshSubramani/process-monitoring)
 
-[![govalid](https://github-readme-stats.vercel.app/api/pin/?username=RakeshSubramani&repo=govalid&theme=tokyonight)](https://github.com/RakeshSubramani/govalid)
+[![govalid]](https://github.com/RakeshSubramani/govalid)
 
-[![sales-management](https://github-readme-stats.vercel.app/api/pin/?username=RakeshSubramani&repo=sales-management&theme=tokyonight)](https://github.com/RakeshSubramani/sales-management)
+[![sales-management]](https://github.com/RakeshSubramani/sales-management)
 
 ---
 
@@ -47,12 +47,6 @@
 ![Streak](https://streak-stats.demolab.com?user=RakeshSubramani&theme=tokyonight&hide_border=false)
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/RakeshSubramani/RakeshSubramani/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
